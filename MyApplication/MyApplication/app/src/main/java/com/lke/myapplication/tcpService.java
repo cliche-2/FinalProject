@@ -60,9 +60,7 @@ public class tcpService extends Service {
     public class tcpThread extends Thread {
 
         private Socket mSocket;
-
-     //   private final String ip = "192.168.219.104";
-        private int        port =  35358;
+        private int        port =  00000;
 
         @Override
         public void run() {

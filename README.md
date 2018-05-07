@@ -1,12 +1,12 @@
 # FinalProject
-Final Project 2017.08-2017.11
+2017.08-2017.11
 
-Simple certificate issue for user authentication
-for Shared washing machine
+Simple certificate issue for user authentication<br>
+for Shared washing machine<br>
 using RaspberryPi
 
-java / python
+<p>java / python</p>
 
-UserApp   (Tcptest)
-AdminApp  (MyApplication)
+UserApp   (Tcptest)<br>
+AdminApp  (MyApplication)<br>
 Washer_RPi(server_v3)

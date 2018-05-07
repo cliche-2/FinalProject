@@ -65,9 +65,8 @@ public class tcpService extends Service {
 
         private Socket mSocket;
 
-        private final String ip = "192.168.123.102";
- //       private final String ip = "192.168.219.112";
-        private int        port =  35357;
+        private final String ip = "000.000.000.000";
+        private int        port =  00000;
         private Handler myHandler = null;
 
         @Override

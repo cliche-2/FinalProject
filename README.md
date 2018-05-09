@@ -3,7 +3,7 @@
 
 Simple certificate issue for user authentication<br>
 for Shared washing machine<br>
-using RaspberryPi
+using RaspberryPi and Android OS
 
 <p>java / python</p>
 
